@@ -92,8 +92,7 @@ Can I schedule a meeting for tomorrow at 10AM?
 I’m in the mood for a call – book me something at 4PM on Friday.
 Let’s meet next Wednesday at noon called ‘Strategy Sync’.
 
----
-
+```
 ## 🚀 How To Run
 
 This project was built using **n8n Cloud** (14-day free trial).  
