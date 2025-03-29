@@ -1,7 +1,7 @@
 # 🧠 Legendary AI Calendar Assistant
 
 A no-code, AI-powered calendar assistant that schedules events via chat using **n8n**, **OpenAI**, and **Google Calendar**.  
-Say goodbye to manual scheduling — just type, and your assistant handles the rest.
+Say goodbye to manual scheduling — just type and your assistant handles the rest.
 
 ---
 
@@ -10,9 +10,9 @@ Say goodbye to manual scheduling — just type, and your assistant handles the r
 This project automates scheduling in your calendar using natural language:
 
 - 🗓️ Reads your availability from **Google Calendar**
-- 💬 Accepts natural chat commands like "Book a meeting at 10AM tomorrow"
+- 💬 Accepts natural chat commands like "Book a meeting at 10 AM tomorrow"
 - 🧠 Uses **OpenAI GPT-4o-mini** to understand your intent and extract times
-- 🤖 Schedules the event if the time is free
+- 🤖 Schedule the event if the time is free
 - 🧩 Built using **n8n** – a powerful no-code workflow builder
 
 ---
@@ -50,7 +50,7 @@ My goals were to:
 |------------------------|
 | ![Fun](./assets/Screenshot-fun-prime-rule.png) |
 
-> All screenshots taken from my working setup — see `/assets` folder for more.
+> All screenshots are taken from my working setup — see `/assets` folder for more.
 
 ---
 
@@ -59,7 +59,7 @@ My goals were to:
 1. **User types a request** into the n8n chat (e.g., _"Book a meeting tomorrow at 10AM"_)
 2. The **OpenAI chat model** parses intent, extracts start & end times
 3. n8n’s **AI Agent node** passes those times to the **Google Calendar node**
-4. If the time is available, the event is created — else the assistant suggests alternatives
+4. If the time is available, the event is created — otherwise the assistant suggests alternatives
 
 ---
 
@@ -88,8 +88,8 @@ My goals were to:
 ## 💡 Example Prompts
 
 ```text
-Can I schedule a meeting for tomorrow at 10AM?
-I’m in the mood for a call – book me something at 4PM on Friday.
+Can I schedule a meeting for tomorrow at 10 AM?
+I’m in the mood for a call – book me something at 4 PM on Friday.
 Let’s meet next Wednesday at noon called ‘Strategy Sync’.
 
 ```
@@ -98,14 +98,11 @@ Let’s meet next Wednesday at noon called ‘Strategy Sync’.
 This project was built using **n8n Cloud** (14-day free trial).  
 ✅ **No code required.**
 
-👉 See the original tutorial [here](https://www.nextwork.org/) to get started with your own AI workflows.
-
 ---
 
 ## 🙌 Acknowledgements
 
-Special thanks to the team at **NextWork** for the original walkthrough and challenge idea.  
-This project extends and customizes their tutorial to fit my personal learning goals and AI consulting portfolio.
+Special thanks to the team at **NextWork** for the original walkthrough and challenge idea.
 
 ---
 
@@ -119,7 +116,7 @@ See the [LICENSE](./LICENSE) file for full details.
 ## 🧑‍💻 Author
 
 **Edouardos Stavrakis**  
-Technology Consultant & AI Enthusiast  
+AI Engineer | Tech Consultant | Founder @ NegotAI | Building AI-Powered SaaS 
 [LinkedIn](https://www.linkedin.com/in/edouardosstavrakis/) | [GitHub](https://github.com/EdouardosStav)
 
 ---
