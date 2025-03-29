@@ -86,14 +86,6 @@ This project is visual-first. Below is a step-by-step breakdown of the entire AI
 
 ---
 
-### ✅ 6. Successful Event Creation
-
-| Event Confirmation |
-|--------------------|
-| ![Event Created](./assets/calendar_event_created.png) |
-
----
-
 ## ⚙️ How It Works
 
 1. **User types a request** into the n8n chat (e.g., _"Book a meeting tomorrow at 10AM"_)
