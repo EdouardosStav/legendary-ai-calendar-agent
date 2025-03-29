@@ -91,3 +91,41 @@ My goals were to:
 Can I schedule a meeting for tomorrow at 10AM?
 I’m in the mood for a call – book me something at 4PM on Friday.
 Let’s meet next Wednesday at noon called ‘Strategy Sync’.
+
+---
+
+## 🚀 How To Run
+
+This project was built using **n8n Cloud** (14-day free trial).  
+✅ **No code required.**
+
+👉 See the original tutorial [here](https://www.nextwork.org/) to get started with your own AI workflows.
+
+---
+
+## 🙌 Acknowledgements
+
+Special thanks to the team at **NextWork** for the original walkthrough and challenge idea.  
+This project extends and customizes their tutorial to fit my personal learning goals and AI consulting portfolio.
+
+---
+
+## 📚 License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](./LICENSE) file for full details.
+
+---
+
+## 🧑‍💻 Author
+
+**Edouardos Stavrakis**  
+Technology Consultant & AI Enthusiast  
+[LinkedIn](https://www.linkedin.com/in/edouardosstavrakis/) | [GitHub](https://github.com/EdouardosStav)
+
+---
+
+## ⭐ Like It?
+
+Give this repo a ⭐ and fork it to build your own AI calendar assistant!
+
