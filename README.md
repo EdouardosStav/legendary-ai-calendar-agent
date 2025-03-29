@@ -148,7 +148,8 @@ See the [LICENSE](./LICENSE) file for full details.
 ## 🧑‍💻 Author
 
 **Edouardos Stavrakis**  
-AI Engineer | Tech Consultant | Founder @ NegotAI | Building AI-Powered SaaS 
+AI Engineer | Tech Consultant | Founder @ NegotAI | Building AI-Powered SaaS
+
 [LinkedIn](https://www.linkedin.com/in/edouardosstavrakis/) | [GitHub](https://github.com/EdouardosStav)
 
 ---
