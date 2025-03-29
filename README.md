@@ -94,22 +94,6 @@ This project is visual-first. Below is a step-by-step breakdown of the entire AI
 
 ---
 
-### 🎭 7. Fun Interactions with Prime-Minute Logic
-
-| Fun Prompt Interaction |
-|------------------------|
-| ![Prime Minute](./assets/ai_conversation_prime_minute_logic.png) |
-
----
-
-### 🧱 8. Backend View: n8n Dashboard
-
-| Workspace |
-|-----------|
-| ![Dashboard](./assets/dashboard_workspace.png) |
-
----
-
 ## ⚙️ How It Works
 
 1. **User types a request** into the n8n chat (e.g., _"Book a meeting tomorrow at 10AM"_)
