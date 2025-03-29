@@ -40,65 +40,73 @@ My goals were to:
 
 ---
 
-## 🖼️ Screenshots – Full AI Workflow in Action
+## 🖼️ Screenshots
 
-This assistant isn't just code — it's a full working experience. Here's a step-by-step visual breakdown of how it works.
-
----
-
-### 🔧 1. Workflow Setup in n8n
-
-| AI Workflow Design |
-|--------------------|
-| ![Workflow Overview](./assets/workflow_overview.png) |
+This project is visual-first. Below is a step-by-step breakdown of the entire AI calendar assistant workflow using annotated screenshots.
 
 ---
 
-### 🧠 2. System Prompt Definition
+### 🧩 1. Workflow Overview
 
-| AI Agent Instruction |
-|----------------------|
-| ![System Prompt](./assets/system_prompt_ai_agent.png) |
+| Overview | AI Agent Config |
+|----------|-----------------|
+| ![Workflow Overview](./assets/workflow_overview.png) | ![System Prompt AI Agent](./assets/system_prompt_ai_agent.png) |
 
 ---
 
-### 🧪 3. Tool Configuration
+### 🔧 2. Trigger & Error State
+
+| Chat Trigger Setup | AI Agent Error |
+|--------------------|----------------|
+| ![Final Workflow Connected](./assets/final_workflow_connected.png) | ![AI Agent Error](./assets/ai_agent_error_state.png) |
+
+---
+
+### 🛠️ 3. Tool Configuration
 
 | OpenAI Model | Google Calendar Auth |
-|--------------|-----------------------|
-| ![Model Config](./assets/openai_model_selection.png) | ![Calendar Auth](./assets/google_calendar_auth.png) |
+|--------------|----------------------|
+| ![OpenAI Model Settings](./assets/openai_model_settings.png) | ![Google Calendar Connected](./assets/google_calendar_connected.png) |
 
 ---
 
-### 🔗 4. Dynamic Field Mapping
+### 🔄 4. Dynamic Field Mapping
 
-| Event Field Mapping |
-|---------------------|
-| ![Field Mapping](./assets/calendar_dynamic_fields.png) |
-
----
-
-### 📤 5. Debugging & AI Logs
-
-| Agent Logs (AI & Calendar API) |
-|-------------------------------|
-| ![Debug Logs](./assets/ai_agent_debug_logs.png) |
+| Field Mapping |
+|---------------|
+| ![Datetime Expression Error](./assets/datetime_expression_error.png) |
 
 ---
 
-### ✅ 6. Booking Confirmation
+### 🐞 5. Debugging & AI Logs
 
-| Event Created |
-|----------------|
-| ![Calendar Created](./assets/calendar_event_created.png) |
+| Calendar API Logs | Conflict Response |
+|-------------------|-------------------|
+| ![AI Logs](./assets/ai_logs_google_calendar.png) | ![Conflict Response Example](./assets/conflict_response_example.png) |
 
 ---
 
-### 🎭 7. Fun Prompt Interaction
+### ✅ 6. Successful Event Creation
 
-| Personality & Prime-Time Rules |
-|-------------------------------|
-| ![Prime Rule Fun](./assets/ai_conversation_prime_minute_logic.png) |
+| Event Confirmation |
+|--------------------|
+| ![Event Created](./assets/calendar_event_created.png) |
+
+---
+
+### 🎭 7. Fun Interactions with Prime-Minute Logic
+
+| Fun Prompt Interaction |
+|------------------------|
+| ![Prime Minute](./assets/ai_conversation_prime_minute_logic.png) |
+
+---
+
+### 🧱 8. Backend View: n8n Dashboard
+
+| Workspace |
+|-----------|
+| ![Dashboard](./assets/dashboard_workspace.png) |
 
 ---
 
