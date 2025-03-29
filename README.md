@@ -40,17 +40,65 @@ My goals were to:
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Screenshots – Full AI Workflow in Action
 
-| Workflow Setup | Working Agent |
-|----------------|---------------|
-| ![Workflow](./assets/Screenshot-setup.png) | ![Agent Booking](./assets/Screenshot-booking-success.png) |
+This assistant isn't just code — it's a full working experience. Here's a step-by-step visual breakdown of how it works.
 
-| Fun Prompt Interaction |
-|------------------------|
-| ![Fun](./assets/Screenshot-fun-prime-rule.png) |
+---
 
-> All screenshots are taken from my working setup — see `/assets` folder for more.
+### 🔧 1. Workflow Setup in n8n
+
+| AI Workflow Design |
+|--------------------|
+| ![Workflow Overview](./assets/workflow_overview.png) |
+
+---
+
+### 🧠 2. System Prompt Definition
+
+| AI Agent Instruction |
+|----------------------|
+| ![System Prompt](./assets/system_prompt_ai_agent.png) |
+
+---
+
+### 🧪 3. Tool Configuration
+
+| OpenAI Model | Google Calendar Auth |
+|--------------|-----------------------|
+| ![Model Config](./assets/openai_model_selection.png) | ![Calendar Auth](./assets/google_calendar_auth.png) |
+
+---
+
+### 🔗 4. Dynamic Field Mapping
+
+| Event Field Mapping |
+|---------------------|
+| ![Field Mapping](./assets/calendar_dynamic_fields.png) |
+
+---
+
+### 📤 5. Debugging & AI Logs
+
+| Agent Logs (AI & Calendar API) |
+|-------------------------------|
+| ![Debug Logs](./assets/ai_agent_debug_logs.png) |
+
+---
+
+### ✅ 6. Booking Confirmation
+
+| Event Created |
+|----------------|
+| ![Calendar Created](./assets/calendar_event_created.png) |
+
+---
+
+### 🎭 7. Fun Prompt Interaction
+
+| Personality & Prime-Time Rules |
+|-------------------------------|
+| ![Prime Rule Fun](./assets/ai_conversation_prime_minute_logic.png) |
 
 ---
 
